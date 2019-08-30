@@ -20,7 +20,7 @@ browser-sync() {
 }
 ```
 
-> You can safely ignore the `--net proxy-tier` directive above if all your services belong to the same network. Otherwise, change `proxy-tier` to the appropriate network for your frontend.
+>You can safely ignore the `--net proxy-tier` directive above if all your services belong to the same network. Otherwise, change `proxy-tier` to the appropriate network for your frontend.
 >
-> Also, don't forget to source your file after every change: `source .zshrc` or `source .bashrc`
+>Also, don't forget to source your file after every change: `source .zshrc` or `source .bashrc`
 
