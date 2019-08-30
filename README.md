@@ -16,7 +16,7 @@ browser-sync() {
     --net proxy-tier \
     -p 3000:3000 -p 3001:3001 \
     -v "$(pwd)":/src \
-    pam79/node browser-sync "$@";
+    pam79/browser-sync browser-sync "$@";
 }
 ```
 
