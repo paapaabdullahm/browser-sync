@@ -4,7 +4,7 @@ Dockerized Browsersync
 
 #### Current Tags:
 
-* Node (LTS): **`10.16.*`**
+* Node (LTS): **`12.14.*`**
 * Browsersync: **`2.26.7`**
 
 #### Shortcuts via .zshrc/.bashrc
