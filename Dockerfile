@@ -5,4 +5,4 @@ RUN npm -g install browser-sync@2.26.7;
 
 WORKDIR /src
 
-EXPOSE 3000 3001
+ENTRYPOINT ["browser-sync"]
